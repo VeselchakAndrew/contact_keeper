@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://Andrew:cassidy@cluster0.xuk2y.mongodb.net/contact_keeper?retryWrites=true&w=majority",
+    "jwtSecret": "yf,jhckexfqys[pyfrjd"
+}
